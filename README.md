@@ -1,6 +1,8 @@
 # hyreg2
 Estimation of hybrid model using continuous and dichotomous data e.g. EQ-5D data Use hyreg2 With (In) R Software
 
+https://www.youtube.com/watch?v=P-hLvoxgVi8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
